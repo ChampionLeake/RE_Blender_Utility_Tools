@@ -13,6 +13,12 @@ Upcoming Features to the Add-On can be tracked [here](https://github.com/Champio
  - Resident Evil 2 Remake
  - Resident Evil 3 Remake
  - Resident Evil 4 Remake
+ - Resident Evil 7
+ - Resident Evil Village
+ - Street Fighter 6
+ - Devil May Cry 5
+ - Monster Hunter Wilds
+ - Dead Rising Deluxe Remaster
 
 *More RE-Engine titles to be supported soon...*
 
